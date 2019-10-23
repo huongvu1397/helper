@@ -1,4 +1,3 @@
-package com.example.snippingtool.views
 
 import android.view.View
 import java.lang.System.currentTimeMillis
